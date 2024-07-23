@@ -21,7 +21,8 @@
   "server": "node server.js",
   
     
-  "client": "npm start --prefix client"
+  "client": "npm start --prefix client",
+    "build": "npm run build"
   
   },
   
